@@ -178,7 +178,7 @@ The system supports three roles with different permission levels:
 }
 ```
 
-## 🔧 How File-Write Works
+## How File-Write Works
 
 ### Model Persistence Flow
 
