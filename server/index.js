@@ -343,7 +343,7 @@ async function startServer() {
     
     // Start listening
     app.listen(PORT, () => {
-      console.log(`🚀 Server running on http://localhost:${PORT}`);
+      console.log(`Server running on http://localhost:${PORT}`);
     });
   } catch (error) {
     console.error('Unable to start server:', error);

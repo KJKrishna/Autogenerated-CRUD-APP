@@ -29,13 +29,13 @@ A no-code/low-code platform that allows administrators to dynamically create dat
 - Axios for API calls
 - JWT decoding
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v16 or higher)
 - PostgreSQL (v12 or higher)
 - npm or yarn
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -107,7 +107,7 @@ The system supports three roles with different permission levels:
 2. **Manager**: Read, Create, Update (customizable per model)
 3. **Viewer**: Read-only (customizable per model)
 
-## 📝 How to Create & Publish a Model
+## How to Create & Publish a Model
 
 ### Step-by-Step Guide
 
@@ -270,8 +270,13 @@ dynamic-crud-system/
 
 > **For deliverables, include:**
 > - Login page screenshot
+![alt text](<pictures/Screenshot from 2025-11-03 04-49-13.png>)
+> - Signup page screenshot
+![alt text](<pictures/Screenshot from 2025-11-03 04-49-26.png>)
 > - Model Builder interface
+![alt text](<pictures/Screenshot from 2025-11-03 04-52-06.png>)
 > - Published model data table
 > - CRUD operations in action
+![alt text](<pictures/Screenshot from 2025-11-03 04-52-32.png>)
 > - Sample model JSON file
-> - Optional: Screen recording of full flow
+![alt text](<pictures/Pasted image.png>)
