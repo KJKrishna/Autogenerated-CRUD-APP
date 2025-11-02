@@ -1,0 +1,28 @@
+{
+  "name": "Student",
+  "fields": [
+    {
+      "name": "Name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "Age",
+      "type": "number",
+      "required": true
+    }
+  ],
+  "rbac": {
+    "Admin": [
+      "all"
+    ],
+    "Manager": [
+      "read",
+      "create",
+      "update"
+    ],
+    "Viewer": [
+      "read"
+    ]
+  }
+}
